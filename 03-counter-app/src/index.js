@@ -8,4 +8,4 @@ import './index.css';
 const divRoot = document.querySelector('#app')
 console.log(divRoot)
 
-ReactDOM.render(<CounterApp numero = { 40 } />, divRoot);
+ReactDOM.render(<CounterApp  />, divRoot);

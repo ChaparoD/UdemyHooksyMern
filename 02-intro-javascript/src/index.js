@@ -1,1 +1,1 @@
-console.log("starttinn")
+//console.log("starttinn")

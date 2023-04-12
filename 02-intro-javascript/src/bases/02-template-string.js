@@ -4,7 +4,7 @@ const apellido = "tribiño";
 //const completo = nombre + " " + apellido
 const completo = `Hola cabros soy ${nombre} ${apellido}`;
 //poner  `` esas comillas para agregar variables
-// de esta forma los espacios y enters son 
+// de esta forma los espacios y enteros son 
 // contabilizados directamente
 console.log(completo);
 
